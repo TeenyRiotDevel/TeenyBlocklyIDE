@@ -1,0 +1,19 @@
+{
+  "name": "teenyblockly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avrgirl-usbtinyisp": "^1.0.2",
+    "google-closure-library": "^20160619.0.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^3.0.1",
+    "webpack": "^1.13.1"
+  }
+}
