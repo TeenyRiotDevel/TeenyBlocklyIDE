@@ -13,6 +13,7 @@ module.exports = {
 				{from: 'vendor/blockly/blockly_compressed.js', to: 'assets/blockly/'},
 				{from: 'vendor/blockly/blocks_compressed.js', to: 'assets/blockly/'},
 				{from: 'vendor/blockly/msg/js/en.js', to: 'assets/blockly/'},
+				{from: 'vendor/blockly/media/', to: 'media/'},
 		// 		// {from: 'src/index.html'}
 			]),
 		new HtmlWebpackPlugin({
